@@ -1,6 +1,6 @@
 # IncidentApp
 
-##In order to get the server running, a "config.js" files must be added to the root folder of the project
+## In order to get the server running, a "config.js" files must be added to the root folder of the project
 
 ### The "config.js" file will module export an object structured as follows:
 module.exports = {
