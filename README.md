@@ -8,6 +8,7 @@ module.exports = {
   SECRET_KEY: <<any string>>  i.e. 'secre key!'
 };
 
-## To run and build the app you need to run the following command
+## To run and build the app you need to run the following commands
 
+### `npm install`
 ### `npm start`
