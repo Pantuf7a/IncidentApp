@@ -11,8 +11,3 @@ module.exports = {
 ## To run and build the app you need to run the following command
 
 ### `npm start`
-
-
-## To run and build the app you need to install
-
-### axios `npm i axios`
