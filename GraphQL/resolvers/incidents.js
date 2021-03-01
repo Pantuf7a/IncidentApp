@@ -64,7 +64,7 @@ module.exports = {
         If anyone should be able to delete this, the "if statement" should be removed/commented */
         if(user.username === incident.username){
           await incident.delete();
-          return "Incident deleted successfullt";
+          return "Incident deleted successfully";
         } else {
           throw new AuthenticationError("Action not allowed");
         }
