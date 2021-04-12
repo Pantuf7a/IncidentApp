@@ -1,4 +1,5 @@
 # IncidentApp
+Simple GraphQL server for an "Incident App" 
 
 ## In order to get the server running, a "config.js" files must be added to the root folder of the project
 
